@@ -1,2 +1,1 @@
-MyResume.github.io
 
